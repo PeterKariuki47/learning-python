@@ -3,4 +3,4 @@
 ### Although not exhaustive, I only write what i find worth practicing
 
 Some concepts are just quite simple to understand.
- #Have Fun!!
+# Have Fun!!
