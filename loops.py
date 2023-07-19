@@ -1,9 +1,9 @@
 #Loops
-# While Loops
+#For Loops
 
-count = 0
-while count < 10:
-    print("The condition is true")
-    count+=1
+items = [1,2,3,4]
+for item in items:
+    print(item)
 
-print("Out of the loop")
+for item in range(15):
+    print(item)
