@@ -1,9 +1,7 @@
-#Loops
-#For Loops
+# Continue 
 
-items = [1,2,3,4]
+items = [1,2,3,4,5]
 for item in items:
-    print(item)
-
-for item in range(15):
+    if item == 3:
+        continue
     print(item)
