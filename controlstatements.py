@@ -11,4 +11,4 @@ elif age < "50":
 elif age < "70":
     print("You are a senior member of the society")
 else:
-    print("You are Elderly")    
+    print("You are Elderly")     
