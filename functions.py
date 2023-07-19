@@ -1,7 +1,8 @@
-# functions
-def Hello(name):
-    print("Hello there! " +name)
+#Variable scope
 
+age=8
+def test():
+    print(age)
 
-Hello("Peter")
- 
+print(age)
+test()
