@@ -21,6 +21,7 @@ for expense in expenses:
 
 expenses = [("Dinner", 80),
             ("Car repair", 120)
+            ("Towing", 40)
 ]
 
 sum = reduce(lambda a,b: a[1] + b[1], expenses)
